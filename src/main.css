@@ -11,6 +11,8 @@
 
 	--pad: 10px;
 	--txt-pad: 10px;
+	  /* amount of spacing and padding */
+	--spacing: 10px;
 
 	--panel-roundness: 0px;
 
